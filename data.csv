@@ -1,0 +1,16 @@
+Paramather,Value
+Massic flow (kg/h),500
+Density (kg/m3),1000
+Specific heat capacity (J/kgC),4186
+Thermal Contuctivity (J/s.mC),0.61
+Viscosity (kg/ms),0.001
+Pool Superficial Area (m2),12.4
+Pool Volume (m3),1.6
+Heat Exchanger Superficial Area(m2),4.3
+Heat Exchanger Volume (m3),0.01
+Heat Exchanger Diameter (m),0.02
+Ambient Temperature (C),20
+Solar Plate Temperature (C),35
+Operation Time (h),8
+Pool Initial Temperature (C),20
+Heat Exchanger Initial Temperature (C),20
